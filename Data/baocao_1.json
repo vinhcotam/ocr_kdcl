@@ -1,0 +1,28 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "a",
+      "text": "av",
+      "points": [
+        [
+          253.31578947368416,
+          130.02631578947373
+        ],
+        [
+          598.0526315789475,
+          222.13157894736847
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "baocao_1.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1654,
+  "image_text": "\t"
+}
