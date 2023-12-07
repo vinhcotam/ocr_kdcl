@@ -1,0 +1,4 @@
+// đây là project xử lý vấn đề bóc tách thông tin từ file ảnh bằng công nghệ OCR
+- Project bao gồm các sub-project:
+	+ Yolov8: xử lý việc phân loại, cắt ra những vùng quan trọng cần OCR
+	+ EasyOCR: xử lý OCR cho những vùng đã được cắt ra bởi yolo
